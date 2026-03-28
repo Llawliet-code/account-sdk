@@ -20,7 +20,7 @@ Complete SDK for connecting to Base Account wallets and interacting with the Eth
 
 ### Installation
 
-```bash
+```bash--bash
 # npm
 npm install @base-org/account
 
